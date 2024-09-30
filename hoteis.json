@@ -1,0 +1,137 @@
+[
+    {
+      "id": "1",
+      "nome": "Beach Class Convention",
+      "foto": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/92641600.jpg?k=2e15dd122beaf83cb089adb53dbdf04bee92305da84f1fdc027f1f9856924cd3&o=&hp=1",
+      "descricao": "Hotel espaçoso, confortável, climatizado, serviços de café da manhã, almoço e jantar disponíveis. Comidas muito boas. Funcionários acolhedores e prestativos. Alojamento confortável.",
+      "localizacao": "Recife",
+      "diaria": "150.00",
+      "comodidade": "Piscina e Restaurante"
+    },
+    {
+      "id": "2",
+      "nome": "Burung Flats Itamambuca",
+      "foto": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/515380843.jpg?k=546668a984e10c31c788da62b4d2bc5eef1908d8d1319312f32ccf943dd97c1f&o=&hp=1",
+      "descricao": "O local é maravilhoso! Vista incrível, paz e tranquilidade definem! A limpeza é impecável! Anfitriã muito atenciosa! Foram dias incríveis e a acomodação foi perfeita, tem tudo que se precisa.",
+      "localizacao": "Ubatuba",
+      "diaria": "200.00",
+      "comodidade": "Restaurante"
+    },
+    {
+      "id": "3",
+      "nome": "Hotel Ilha Bela",
+      "foto": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/217643032.jpg?k=98c2eb6474c9adfcb7430662f295317599393eab678aa2eff352f1710785fcc7&o=&hp=1",
+      "descricao": "localização, quartos gigantes! Café da manhã com muita variedade",
+      "localizacao": "Ilha Bela",
+      "diaria": "250.00",
+      "comodidade": "Piscina, Restaurante e Beira-Mar"
+    },
+    {
+      "id": "4",
+      "nome": "Estalagem Monte Verde",
+      "foto": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/279502332.jpg?k=521959d028f7615faa0d7635fb3e6a8316b94a6fcd1f702c8326e8097e97add6&o=&hp=1",
+      "descricao": "Chalé, Lareira, Banheira de Hidromassagem, Cama, Cobertor Térmico, Chuveiro!",
+      "localizacao": "Monte Verde",
+      "diaria": "300.00",
+      "comodidade": "Lareira e Hidro"
+    },
+    {
+      "id": "5",
+      "nome": "Hotel Fazenda Golden Park Campos do Jordão",
+      "foto": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/581702069.jpg?k=89986b9704076790a74b942f7a811df46de939bfca60e8c2d62fa243531eadf6&o=&hp=1",
+      "descricao": "Ótima localização e a equipe foi muito atenciosa e solicita em todos os momentos e pedidos de apoio.",
+      "localizacao": "Campos do Jordão",
+      "diaria": "450.00",
+      "comodidade": "Piscina e Fazenda"
+    },
+    {
+      "id": "6",
+      "nome": "Charme Hotel Guarujá Frente Mar",
+      "foto": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/180738905.jpg?k=74a240066fb6eff046ec22875a42f7cdd1896fdc0ecc1e9b7e18551932196061&o=&hp=1",
+      "descricao": "A localização do hotel é ótima! Fica na praia da Enseada, de frente para o mar, próximo ao centro comercial com vários restaurantes e lojas. Além disso, a avenida da praia é linda. O hotel tem lago...",
+      "localizacao": "Guarujá",
+      "diaria": "500.00",
+      "comodidade": "Lago, Bar, e Piscina"
+    },
+    {
+      "id": "7",
+      "nome": "Hotel Marina Park",
+      "foto": "https://ak-d.tripcdn.com/images/1mc6j12000b9vehy53ADB_R_960_660_R5_D.jpg",
+      "descricao": "Clean and comfortable everywhere. Rooms are very clean and spacious. Nice resturant with good view of the sea and beautiful hotel yard. I was there for business for four days and in my opinion is a very good place for relaxation beside blue.",
+      "localizacao": "Fortaleza",
+      "diaria": "550.00",
+      "comodidade": "Piscina e Bar"
+    },
+    {
+      "id": "8",
+      "nome": "UPG Hotel",
+      "foto": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/286476278.jpg?k=c2315e1a1a1cd8943bb14a1fec59e6f2d0a3d1bf9639a22ec367025b16558108&o=&hp=1",
+      "descricao": "Localização, funcionários simpáticos e solícitos, café da manhã maravilhoso. Ótimo custo-benefício em baixa temporada.",
+      "localizacao": "Ubatuba",
+      "diaria": "650.00",
+      "comodidade": "Piscina"
+    },
+    {
+      "id": "9",
+      "nome": "Hostal L' Hirondelle",
+      "foto": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/285845850.jpg?k=8577b38d697e7b035f7a72d5c007dff72c846b9c83ec420f73c795409b9ffdc0&o=&hp=1",
+      "descricao": "Excelente atendimento e conforto. Recomendado para se desconectar da rotina.",
+      "localizacao": "La Fralda",
+      "diaria": "800.00",
+      "comodidade": "Piscina e Café"
+    },
+    {
+      "id": "10",
+      "nome": "Cinnamon Velifushi Maldives",
+      "foto": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/530696447.jpg?k=f32ddfd229caffe8cabab49b638a65659684c09fd8a537fb1742656154f9940d&o=&hp=1",
+      "descricao": "O tamanho do quarto, a cordialidade dos funcionários, a qualidade da comida, a limpeza dos espaços.",
+      "localizacao": "Maldivas",
+      "diaria": "1200.00",
+      "comodidade": "All Incluse"
+    },
+    {
+      "id": "11",
+      "nome": "Apartment im Herzen AROSAS",
+      "foto": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/274610579.jpg?k=8a066bd5c0559a7178f21b4dfb2e9d9c41c1b9ba5b36e2c2bc062c2c988af0f5&o=&hp=1",
+      "descricao": "Clean and comfortable everywhere. Rooms are very clean and spacious. Nice resturant with good view of the sea and beautiful hotel yard. I was there for business for four days and in my opinion is a very good place for relaxation beside blue.",
+      "localizacao": "Suíça",
+      "diaria": "2000.00",
+      "comodidade": "wifi gratuito"
+    },
+    {
+      "id": "12",
+      "nome": "Pyramids Vista INN",
+      "foto": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/597451130.jpg?k=214196101ba616821c5baa3c9c1a85fd4b037ab944f1fb327c2f911a0828270f&o=&hp=1",
+      "descricao": "Uma estadia confortável com excelente atendimento",
+      "localizacao": "Egito",
+      "diaria": "550.00",
+      "comodidade": "Café e transfer"
+    },
+    {
+      "id": "13",
+      "nome": "Hôtel Le Cercle Tour Eiffel",
+      "foto": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/571317862.jpg?k=b88909950a2616b0b42db2edcf6fd867a8d1bd84853c03b28c7839450fecfd73&o=&hp=1",
+      "descricao": "A localização, o conforto e a praticidade! Os funcionários muito educados.",
+      "localizacao": "França",
+      "diaria": "1200.00",
+      "comodidade": "Bar"
+    },
+    {
+      "id": "14",
+      "nome": "Six Senses Rome",
+      "foto": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/467980612.jpg?k=0e468ca02e0b2d7312838c10f00eaa2b08d2dae3dd584191a99c965dbeefc105&o=&hp=1",
+      "descricao": "Instalações super agradáveis. Ótima equipe. Eles me ajudaram a organizar flores e outras surpresas para o aniversário do meu parceiro. Bom restaurante no local e ótima localização. Uma das minhas melhores experiências.",
+      "localizacao": "Roma",
+      "diaria": "1500.00",
+      "comodidade": "Spa"
+    },
+    {
+      "id": "15",
+      "nome": "Sonesta ES Suites Orlando",
+      "foto": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/328864980.jpg?k=3b7b1a6413e5e0069ccaad566b53541997ec5bde5f4dcb5a6ae32ee6ab767550&o=&hp=1",
+      "descricao": "Localização ótima. Roupas de cama excelentes. Piscina aberta até 22 horas. Cozinha completa.",
+      "localizacao": "Orlando",
+      "diaria": "1800.00",
+      "comodidade": "Piscina e Academia"
+    }
+  ]
